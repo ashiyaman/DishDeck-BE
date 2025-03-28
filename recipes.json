@@ -1,0 +1,1346 @@
+[
+    {
+        "name": "Neapolitan Pizza",
+        "cuisine": "Italian",
+        "prepTime": "20 minutes (plus 8 hours dough resting time)",
+        "cookingTime": "90 seconds (in a high-temperature oven) or 7-10 minutes (home oven)",
+        "servings": 2,
+        "ingredients": [
+          { "name": "00 flour", "amount": "500g" },
+          { "name": "water", "amount": "325ml" },
+          { "name": "salt", "amount": "10g" },
+          { "name": "fresh yeast", "amount": "3g" },
+          { "name": "San Marzano tomatoes", "amount": "250g" },
+          { "name": "mozzarella di bufala", "amount": "200g" },
+          { "name": "fresh basil leaves", "amount": "5-6 leaves" },
+          { "name": "extra virgin olive oil", "amount": "2 tbsp" }
+        ],
+        "instructions": [
+          "Mix flour, water, salt, and yeast to form a smooth dough, knead well, and let it rest for 8 hours.",
+          "Preheat the oven to the highest setting (or use a pizza oven at 485°C).",
+          "Stretch the dough by hand into a thin circle (around 12 inches in diameter).",
+          "Spread crushed San Marzano tomatoes over the dough evenly.",
+          "Tear mozzarella into small pieces and place over the tomato sauce.",
+          "Drizzle with olive oil and add fresh basil leaves.",
+          "Bake for 90 seconds in a pizza oven or 7-10 minutes in a regular oven until the crust is golden and bubbly.",
+          "Serve hot and enjoy!"
+        ],
+        "nutrition": {
+          "calories": 750,
+          "fat": "18g",
+          "carbs": "110g",
+          "proteins": "25g",
+          "fiber": "5g",
+          "sugar": "6g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1564936281221-4c1aa3b0dbdd"
+        ],
+        "details": "A traditional Italian pizza from Naples, made with a soft and chewy crust, San Marzano tomatoes, fresh mozzarella, and basil, baked in a high-temperature oven for an authentic taste."
+      },      
+    {
+      "name": "Cheesy Chicken and Broccoli Pasta",
+      "cuisine": "Italian",
+      "prepTime": "15 minutes",
+      "cookingTime": "25 minutes",
+      "servings": 4,
+      "ingredients": [
+        { "name": "olive oil", "amount": "2 tbsp" },
+        { "name": "garlic", "amount": "2 cloves" },
+        { "name": "chicken breast", "amount": "2, diced" },
+        { "name": "broccoli florets", "amount": "2 cups" },
+        { "name": "penne pasta", "amount": "250g" },
+        { "name": "heavy cream", "amount": "1 cup" },
+        { "name": "parmesan cheese", "amount": "1/2 cup" },
+        { "name": "salt", "amount": "to taste" },
+        { "name": "black pepper", "amount": "to taste" }
+      ],
+      "instructions": [
+        "Boil pasta according to package instructions. Drain and set aside.",
+        "Heat olive oil in a pan, add garlic, and sauté for 1 minute.",
+        "Add diced chicken and cook until golden brown.",
+        "Add broccoli and cook for another 3-4 minutes.",
+        "Pour in heavy cream, add Parmesan cheese, and stir until combined.",
+        "Season with salt and pepper, then mix in cooked pasta.",
+        "Serve hot and enjoy!"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "fat": "22g",
+        "carbs": "48g",
+        "proteins": "36g",
+        "fiber": "5g",
+        "sugar": "3g"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1604908177631-76f37f9844f8",
+        "https://images.unsplash.com/photo-1625944173283-15394ef66395",
+        "https://images.unsplash.com/photo-1594007654729-407eedc4be4d"
+      ],
+      "details": "Savor the comforting flavors of this cheesy chicken and broccoli pasta, perfect for a cozy weeknight dinner. With its creamy sauce and tender chicken, this dish will have everyone coming back for seconds."
+    },
+    {
+      "name": "Spicy Thai Basil Chicken",
+      "cuisine": "Thai",
+      "prepTime": "10 minutes",
+      "cookingTime": "15 minutes",
+      "servings": 3,
+      "ingredients": [
+        { "name": "chicken thigh", "amount": "300g, minced" },
+        { "name": "garlic", "amount": "3 cloves" },
+        { "name": "Thai basil", "amount": "1/2 cup" },
+        { "name": "soy sauce", "amount": "2 tbsp" },
+        { "name": "fish sauce", "amount": "1 tbsp" },
+        { "name": "red chili", "amount": "2, chopped" },
+        { "name": "sugar", "amount": "1 tsp" },
+        { "name": "vegetable oil", "amount": "1 tbsp" },
+        { "name": "jasmine rice", "amount": "for serving" }
+      ],
+      "instructions": [
+        "Heat oil in a wok and sauté garlic and red chili.",
+        "Add minced chicken and cook until browned.",
+        "Pour in soy sauce, fish sauce, and sugar, stir to combine.",
+        "Toss in Thai basil and stir-fry for 1 more minute.",
+        "Serve with jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "fat": "20g",
+        "carbs": "42g",
+        "proteins": "38g",
+        "fiber": "2g",
+        "sugar": "4g"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1576402187877-3a47f3f3f6eb",
+        "https://images.unsplash.com/photo-1597307386896-65a3a4d90b29",
+        "https://images.unsplash.com/photo-1588168333986-5078d3ae3803"
+      ],
+      "details": "Enjoy the bold flavors of Thai cuisine with this spicy basil chicken stir-fry. Quick, delicious, and packed with authentic Thai spices, it's perfect for a weeknight meal."
+    },
+    {
+      "name": "Classic Margherita Pizza",
+      "cuisine": "Italian",
+      "prepTime": "20 minutes",
+      "cookingTime": "15 minutes",
+      "servings": 2,
+      "ingredients": [
+        { "name": "pizza dough", "amount": "1 ball" },
+        { "name": "tomato sauce", "amount": "1/2 cup" },
+        { "name": "fresh mozzarella", "amount": "100g" },
+        { "name": "fresh basil", "amount": "a few leaves" },
+        { "name": "olive oil", "amount": "1 tbsp" },
+        { "name": "salt", "amount": "to taste" }
+      ],
+      "instructions": [
+        "Preheat oven to 220°C (425°F).",
+        "Roll out pizza dough and place on a baking sheet.",
+        "Spread tomato sauce evenly over the dough.",
+        "Tear fresh mozzarella and distribute over the pizza.",
+        "Bake for 12-15 minutes until golden and bubbly.",
+        "Top with fresh basil and drizzle with olive oil before serving."
+      ],
+      "nutrition": {
+        "calories": 650,
+        "fat": "20g",
+        "carbs": "85g",
+        "proteins": "30g",
+        "fiber": "5g",
+        "sugar": "4g"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1606733439219-e2c3ce178327",
+        "https://images.unsplash.com/photo-1554118811-1e0d58224f24",
+        "https://images.unsplash.com/photo-1564936281260-5b1d930c0f47"
+      ],
+      "details": "A simple yet delicious classic, Margherita pizza highlights fresh ingredients and bold flavors. Perfect for a quick homemade pizza night!"
+    },
+    {
+        "name": "Peking Duck",
+        "cuisine": "Chinese",
+        "prepTime": "30 minutes (plus 24 hours marination)",
+        "cookingTime": "1 hour 30 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "whole duck", "amount": "1 (about 2 kg)" },
+          { "name": "honey", "amount": "3 tbsp" },
+          { "name": "soy sauce", "amount": "2 tbsp" },
+          { "name": "hoisin sauce", "amount": "3 tbsp" },
+          { "name": "scallions", "amount": "4, chopped" },
+          { "name": "cucumber", "amount": "1, julienned" },
+          { "name": "Chinese pancakes", "amount": "8 pieces" }
+        ],
+        "instructions": [
+          "Marinate duck with soy sauce and honey, then hang it in a cool place for 24 hours.",
+          "Roast in the oven at 220°C (430°F) for 1.5 hours until skin is crispy.",
+          "Slice thinly and serve with pancakes, hoisin sauce, scallions, and cucumber."
+        ],
+        "nutrition": {
+          "calories": 600,
+          "fat": "30g",
+          "carbs": "50g",
+          "proteins": "40g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1606312619284-6a6510d35d86"
+        ],
+        "details": "A famous Beijing dish featuring crispy roast duck served with pancakes, hoisin sauce, and vegetables."
+      },      
+    {
+        "name": "Classic Beef Stroganoff",
+        "cuisine": "Russian",
+        "prepTime": "15 minutes",
+        "cookingTime": "30 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "beef sirloin", "amount": "500g, sliced" },
+          { "name": "onion", "amount": "1, chopped" },
+          { "name": "mushrooms", "amount": "1 cup, sliced" },
+          { "name": "butter", "amount": "2 tbsp" },
+          { "name": "sour cream", "amount": "1/2 cup" },
+          { "name": "beef broth", "amount": "1/2 cup" },
+          { "name": "flour", "amount": "1 tbsp" },
+          { "name": "salt", "amount": "to taste" },
+          { "name": "black pepper", "amount": "to taste" }
+        ],
+        "instructions": [
+          "Heat butter in a skillet and sauté onions until soft.",
+          "Add beef slices and cook until browned.",
+          "Stir in mushrooms and cook for 3 minutes.",
+          "Sprinkle flour, then pour in beef broth, stirring continuously.",
+          "Simmer until thickened, then mix in sour cream.",
+          "Serve hot over egg noodles."
+        ],
+        "nutrition": {
+          "calories": 560,
+          "fat": "30g",
+          "carbs": "20g",
+          "proteins": "48g",
+          "fiber": "3g",
+          "sugar": "4g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1604908177631-76f37f9844f8",
+          "https://images.unsplash.com/photo-1625944173283-15394ef66395",
+          "https://images.unsplash.com/photo-1594007654729-407eedc4be4d"
+        ],
+        "details": "A rich and creamy Russian dish featuring tender beef slices in a savory mushroom and sour cream sauce, served over egg noodles for a comforting meal."
+      },
+    {
+        "name": "Chicken Alfredo Pasta",
+        "cuisine": "Italian",
+        "prepTime": "10 minutes",
+        "cookingTime": "25 minutes",
+        "servings": 4,
+        "ingredients": [
+        { "name": "chicken breast", "amount": "500g, sliced" },
+        { "name": "fettuccine pasta", "amount": "250g" },
+        { "name": "butter", "amount": "3 tbsp" },
+        { "name": "heavy cream", "amount": "1 cup" },
+        { "name": "Parmesan cheese", "amount": "1/2 cup, grated" },
+        { "name": "garlic", "amount": "2 cloves, minced" },
+        { "name": "salt", "amount": "to taste" },
+        { "name": "black pepper", "amount": "to taste" }
+        ],
+        "instructions": [
+        "Cook fettuccine pasta according to package instructions.",
+        "In a skillet, heat butter and sauté garlic until fragrant.",
+        "Add chicken slices and cook until golden brown.",
+        "Pour in heavy cream and stir in Parmesan cheese.",
+        "Simmer until the sauce thickens, then toss in cooked pasta.",
+        "Serve hot, garnished with extra Parmesan."
+        ],
+        "nutrition": {
+        "calories": 620,
+        "fat": "35g",
+        "carbs": "45g",
+        "proteins": "40g",
+        "fiber": "2g",
+        "sugar": "3g"
+        },
+        "images": [
+        "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+        "https://images.unsplash.com/photo-1594247359910-69c7d38da52e",
+        "https://images.unsplash.com/photo-1600628421577-050c52d26a21"
+        ],
+        "details": "A creamy and rich Italian pasta dish with tender chicken and a luscious Alfredo sauce, perfect for a comforting meal."
+    },
+    {
+        "name": "Sushi (Maki Rolls)",
+        "cuisine": "Japanese",
+        "prepTime": "30 minutes",
+        "cookingTime": "10 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "sushi rice", "amount": "2 cups" },
+          { "name": "nori (seaweed sheets)", "amount": "4 sheets" },
+          { "name": "salmon", "amount": "200g, sliced" },
+          { "name": "cucumber", "amount": "1, julienned" },
+          { "name": "soy sauce", "amount": "2 tbsp" }
+        ],
+        "instructions": [
+          "Cook and season sushi rice.",
+          "Spread rice on nori, add salmon and cucumber.",
+          "Roll tightly, slice, and serve with soy sauce."
+        ],
+        "nutrition": {
+          "calories": 300,
+          "fat": "5g",
+          "carbs": "50g",
+          "proteins": "15g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1543826173-7065173c3e5f"
+        ],
+        "details": "A traditional Japanese dish featuring rice and seafood wrapped in seaweed."
+      },      
+    {
+        "name": "Butter Chicken",
+        "cuisine": "Indian",
+        "prepTime": "20 minutes",
+        "cookingTime": "35 minutes",
+        "servings": 4,
+        "ingredients": [
+        { "name": "chicken", "amount": "500g, boneless, cubed" },
+        { "name": "butter", "amount": "3 tbsp" },
+        { "name": "onion", "amount": "1, finely chopped" },
+        { "name": "tomato puree", "amount": "1 cup" },
+        { "name": "heavy cream", "amount": "1/2 cup" },
+        { "name": "garlic", "amount": "3 cloves, minced" },
+        { "name": "ginger", "amount": "1 tbsp, grated" },
+        { "name": "garam masala", "amount": "1 tsp" },
+        { "name": "salt", "amount": "to taste" },
+        { "name": "black pepper", "amount": "to taste" }
+        ],
+        "instructions": [
+        "Melt butter in a pan and sauté onions until golden brown.",
+        "Add garlic, ginger, and garam masala, then cook for a minute.",
+        "Add chicken cubes and cook until browned.",
+        "Stir in tomato puree and simmer for 15 minutes.",
+        "Pour in heavy cream and cook for another 5 minutes.",
+        "Serve hot with rice or naan."
+        ],
+        "nutrition": {
+        "calories": 540,
+        "fat": "32g",
+        "carbs": "15g",
+        "proteins": "45g",
+        "fiber": "4g",
+        "sugar": "6g"
+        },
+        "images": [
+        "https://images.unsplash.com/photo-1598550476434-46e8b6e89b29",
+        "https://images.unsplash.com/photo-1560963689-b41c1c5f71f3",
+        "https://images.unsplash.com/photo-1633515256028-83a57b3f91a7"
+        ],
+        "details": "A popular Indian dish featuring succulent chicken cooked in a rich and creamy tomato-butter sauce, served with rice or naan."
+    },
+    {
+        "name": "Tacos al Pastor",
+        "cuisine": "Mexican",
+        "prepTime": "30 minutes (plus 4 hours marination)",
+        "cookingTime": "20 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "pork shoulder", "amount": "500g, thinly sliced" },
+          { "name": "dried guajillo chilies", "amount": "3, deseeded" },
+          { "name": "pineapple", "amount": "1/2 cup, chopped" },
+          { "name": "white vinegar", "amount": "2 tbsp" },
+          { "name": "garlic", "amount": "3 cloves, minced" },
+          { "name": "achiote paste", "amount": "2 tbsp" },
+          { "name": "orange juice", "amount": "1/4 cup" },
+          { "name": "cumin powder", "amount": "1 tsp" },
+          { "name": "oregano", "amount": "1 tsp" },
+          { "name": "salt", "amount": "1 tsp" },
+          { "name": "corn tortillas", "amount": "8 pieces" },
+          { "name": "onion", "amount": "1, chopped" },
+          { "name": "cilantro", "amount": "1/4 cup, chopped" },
+          { "name": "lime wedges", "amount": "4 pieces" }
+        ],
+        "instructions": [
+          "Soak dried guajillo chilies in warm water for 10 minutes, then blend with pineapple, vinegar, garlic, achiote paste, orange juice, cumin, oregano, and salt to form a marinade.",
+          "Marinate thinly sliced pork in the mixture for at least 4 hours (preferably overnight).",
+          "Grill the marinated pork on high heat until slightly charred and cooked through.",
+          "Slice the pork thinly and serve in warm corn tortillas.",
+          "Top with chopped onions, cilantro, and a squeeze of lime.",
+          "Enjoy with your favorite salsa!"
+        ],
+        "nutrition": {
+          "calories": 420,
+          "fat": "15g",
+          "carbs": "45g",
+          "proteins": "30g",
+          "fiber": "6g",
+          "sugar": "8g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1612933103273-abe2bd0b7c3b"
+        ],
+        "details": "A popular Mexican street food featuring marinated pork grilled to perfection, served in soft corn tortillas with fresh toppings."
+      },   
+      {
+        "name": "Mapo Tofu",
+        "cuisine": "Chinese",
+        "prepTime": "15 minutes",
+        "cookingTime": "20 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "tofu", "amount": "400g, cubed" },
+          { "name": "ground pork", "amount": "200g" },
+          { "name": "doubanjiang (fermented chili bean paste)", "amount": "2 tbsp" },
+          { "name": "garlic", "amount": "2 cloves, minced" },
+          { "name": "ginger", "amount": "1 inch, minced" },
+          { "name": "Sichuan peppercorns", "amount": "1 tsp, crushed" },
+          { "name": "soy sauce", "amount": "1 tbsp" }
+        ],
+        "instructions": [
+          "Fry garlic, ginger, and pork until browned.",
+          "Add doubanjiang, Sichuan peppercorns, and tofu.",
+          "Simmer for 10 minutes, stirring gently, and serve with rice."
+        ],
+        "nutrition": {
+          "calories": 350,
+          "fat": "20g",
+          "carbs": "15g",
+          "proteins": "30g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1617196034232-5df0919f1f96"
+        ],
+        "details": "A spicy and numbing Sichuan dish made with tofu and ground pork in a flavorful chili bean sauce."
+      },         
+    {
+        "name": "Beef Tacos",
+        "cuisine": "Mexican",
+        "prepTime": "15 minutes",
+        "cookingTime": "20 minutes",
+        "servings": 4,
+        "ingredients": [
+        { "name": "ground beef", "amount": "500g" },
+        { "name": "onion", "amount": "1, chopped" },
+        { "name": "garlic", "amount": "2 cloves, minced" },
+        { "name": "taco seasoning", "amount": "2 tbsp" },
+        { "name": "tomato", "amount": "1, diced" },
+        { "name": "lettuce", "amount": "1 cup, shredded" },
+        { "name": "cheddar cheese", "amount": "1/2 cup, grated" },
+        { "name": "tortillas", "amount": "8 small" },
+        { "name": "sour cream", "amount": "1/2 cup" }
+        ],
+        "instructions": [
+        "Cook ground beef in a skillet until browned.",
+        "Add onion, garlic, and taco seasoning; cook for 5 minutes.",
+        "Warm tortillas in a pan.",
+        "Fill each tortilla with beef mixture, tomatoes, lettuce, and cheese.",
+        "Top with sour cream and serve."
+        ],
+        "nutrition": {
+        "calories": 500,
+        "fat": "28g",
+        "carbs": "40g",
+        "proteins": "30g",
+        "fiber": "5g",
+        "sugar": "4g"
+        },
+        "images": [
+        "https://images.unsplash.com/photo-1600891964093-37e4f99d0610",
+        "https://images.unsplash.com/photo-1604467790831-4692351b2b61",
+        "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2d"
+        ],
+        "details": "Classic Mexican beef tacos with a savory filling, fresh vegetables, and toppings, served in warm tortillas."
+    },
+    {
+        "name": "Pad Thai",
+        "cuisine": "Thai",
+        "prepTime": "20 minutes",
+        "cookingTime": "25 minutes",
+        "servings": 4,
+        "ingredients": [
+        { "name": "rice noodles", "amount": "250g" },
+        { "name": "shrimp", "amount": "200g, peeled and deveined" },
+        { "name": "eggs", "amount": "2, beaten" },
+        { "name": "bean sprouts", "amount": "1 cup" },
+        { "name": "peanuts", "amount": "1/4 cup, crushed" },
+        { "name": "lime", "amount": "1, cut into wedges" },
+        { "name": "fish sauce", "amount": "2 tbsp" },
+        { "name": "soy sauce", "amount": "1 tbsp" },
+        { "name": "brown sugar", "amount": "1 tbsp" }
+        ],
+        "instructions": [
+        "Cook rice noodles according to package instructions.",
+        "Sauté shrimp in a pan until pink, then set aside.",
+        "Scramble eggs in the same pan, then add cooked noodles.",
+        "Mix in fish sauce, soy sauce, and sugar.",
+        "Add shrimp, bean sprouts, and peanuts.",
+        "Serve hot with lime wedges."
+        ],
+        "nutrition": {
+        "calories": 480,
+        "fat": "14g",
+        "carbs": "65g",
+        "proteins": "30g",
+        "fiber": "4g",
+        "sugar": "5g"
+        },
+        "images": [
+        "https://images.unsplash.com/photo-1596803245076-f1eab5b7b62e",
+        "https://images.unsplash.com/photo-1618212441634-49e0972d1e37",
+        "https://images.unsplash.com/photo-1578683010237-3fdaf1f0a5f0"
+        ],
+        "details": "A traditional Thai noodle dish with stir-fried rice noodles, shrimp, eggs, and peanuts, served with a tangy sauce and lime wedges."
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "cuisine": "Italian",
+        "prepTime": "10 minutes",
+        "cookingTime": "20 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "spaghetti", "amount": "400g" },
+          { "name": "pancetta", "amount": "150g, diced" },
+          { "name": "eggs", "amount": "3" },
+          { "name": "Parmesan cheese", "amount": "1/2 cup, grated" },
+          { "name": "black pepper", "amount": "to taste" },
+          { "name": "salt", "amount": "to taste" }
+        ],
+        "instructions": [
+          "Cook spaghetti until al dente.",
+          "Sauté pancetta in a pan until crispy.",
+          "In a bowl, whisk eggs with Parmesan cheese.",
+          "Drain pasta and mix with pancetta.",
+          "Remove from heat and quickly stir in egg mixture.",
+          "Serve hot with extra Parmesan and black pepper."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "fat": "20g",
+          "carbs": "60g",
+          "proteins": "25g",
+          "fiber": "3g",
+          "sugar": "2g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1586190848861-99aa4a171e90",
+          "https://images.unsplash.com/photo-1551782450-a2132b4ba21d"
+        ],
+        "details": "A classic Roman pasta dish with creamy egg-based sauce, pancetta, and Parmesan."
+      },
+      {
+        "name": "Shrimp Dumplings (Har Gow)",
+        "cuisine": "Chinese",
+        "prepTime": "25 minutes",
+        "cookingTime": "10 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "shrimp", "amount": "200g, minced" },
+          { "name": "wheat starch", "amount": "1 cup" },
+          { "name": "cornstarch", "amount": "1/4 cup" },
+          { "name": "sesame oil", "amount": "1 tsp" },
+          { "name": "salt", "amount": "1/2 tsp" }
+        ],
+        "instructions": [
+          "Mix shrimp with sesame oil and salt.",
+          "Make a dough with wheat starch and cornstarch, roll out thin wrappers.",
+          "Fill with shrimp mixture, steam for 8-10 minutes, and serve hot."
+        ],
+        "nutrition": {
+          "calories": 220,
+          "fat": "5g",
+          "carbs": "30g",
+          "proteins": "15g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1553621042-f6e147245754"
+        ],
+        "details": "A classic Cantonese dim sum dish featuring translucent shrimp-filled dumplings."
+      },      
+      {
+        "name": "Chicken Tikka Masala",
+        "cuisine": "Indian",
+        "prepTime": "20 minutes",
+        "cookingTime": "40 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "chicken breast", "amount": "500g, cubed" },
+          { "name": "yogurt", "amount": "1/2 cup" },
+          { "name": "garlic", "amount": "3 cloves, minced" },
+          { "name": "ginger", "amount": "1 tbsp, grated" },
+          { "name": "garam masala", "amount": "1 tbsp" },
+          { "name": "tomato puree", "amount": "1 cup" },
+          { "name": "heavy cream", "amount": "1/2 cup" }
+        ],
+        "instructions": [
+          "Marinate chicken with yogurt, garlic, ginger, and garam masala.",
+          "Grill or cook chicken in a pan until golden brown.",
+          "Sauté onion, add tomato puree and simmer.",
+          "Stir in heavy cream and cooked chicken.",
+          "Simmer for 10 minutes and serve hot."
+        ],
+        "nutrition": {
+          "calories": 600,
+          "fat": "35g",
+          "carbs": "20g",
+          "proteins": "50g",
+          "fiber": "4g",
+          "sugar": "6g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1626082899293-098b01a46863",
+          "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2d"
+        ],
+        "details": "A rich and creamy Indian dish with grilled chicken in a spiced tomato-based sauce."
+      },   
+      {
+        "name": "Beef Bulgogi",
+        "cuisine": "Korean",
+        "prepTime": "15 minutes",
+        "cookingTime": "20 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "beef sirloin", "amount": "500g, thinly sliced" },
+          { "name": "soy sauce", "amount": "1/4 cup" },
+          { "name": "brown sugar", "amount": "2 tbsp" },
+          { "name": "garlic", "amount": "3 cloves, minced" },
+          { "name": "sesame oil", "amount": "1 tbsp" },
+          { "name": "green onions", "amount": "2, chopped" }
+        ],
+        "instructions": [
+          "Marinate beef in soy sauce, sugar, garlic, and sesame oil for 30 minutes.",
+          "Cook beef on high heat until caramelized.",
+          "Garnish with green onions and serve hot with rice."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "fat": "20g",
+          "carbs": "15g",
+          "proteins": "40g",
+          "fiber": "2g",
+          "sugar": "6g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1604908177631-76f37f9844f8"
+        ],
+        "details": "A savory and slightly sweet grilled beef dish from Korea, traditionally served with rice."
+      },
+      {
+        "name": "Kerala Avial",
+        "cuisine": "Kerala",
+        "prepTime": "20 minutes",
+        "cookingTime": "25 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "mixed vegetables (carrot, drumstick, yam, raw banana, beans)", "amount": "2 cups, chopped" },
+          { "name": "coconut, grated", "amount": "1/2 cup" },
+          { "name": "green chilies", "amount": "2, slit" },
+          { "name": "curry leaves", "amount": "6-8 leaves" },
+          { "name": "cumin seeds", "amount": "1 tsp" },
+          { "name": "yogurt", "amount": "1/2 cup" },
+          { "name": "coconut oil", "amount": "2 tbsp" }
+        ],
+        "instructions": [
+          "Boil vegetables with a little water and salt until tender.",
+          "Grind coconut, cumin, and green chilies to a coarse paste.",
+          "Mix with cooked vegetables, add yogurt, and simmer for 5 minutes.",
+          "Drizzle coconut oil and garnish with curry leaves.",
+          "Serve hot with steamed rice."
+        ],
+        "nutrition": {
+          "calories": 180,
+          "fat": "10g",
+          "carbs": "20g",
+          "proteins": "4g",
+          "fiber": "6g",
+          "sugar": "5g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1627309303193-44db05e7c4d3"
+        ],
+        "details": "A traditional Kerala dish made with mixed vegetables, coconut, and yogurt, cooked in coconut oil."
+      },      
+      {
+        "name": "Vegetable Stir-Fry",
+        "cuisine": "Asian",
+        "prepTime": "15 minutes",
+        "cookingTime": "15 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "broccoli", "amount": "1 cup, chopped" },
+          { "name": "carrots", "amount": "1 cup, sliced" },
+          { "name": "bell peppers", "amount": "1 cup, sliced" },
+          { "name": "soy sauce", "amount": "2 tbsp" },
+          { "name": "garlic", "amount": "2 cloves, minced" },
+          { "name": "ginger", "amount": "1 tsp, grated" },
+          { "name": "sesame oil", "amount": "1 tbsp" }
+        ],
+        "instructions": [
+          "Heat sesame oil in a wok.",
+          "Sauté garlic and ginger until fragrant.",
+          "Add vegetables and stir-fry for 5 minutes.",
+          "Pour in soy sauce and stir well.",
+          "Cook for another 3-5 minutes and serve hot."
+        ],
+        "nutrition": {
+          "calories": 180,
+          "fat": "7g",
+          "carbs": "25g",
+          "proteins": "5g",
+          "fiber": "6g",
+          "sugar": "10g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1572449043416-55f4685c9bbf"
+        ],
+        "details": "A colorful and nutritious vegetable stir-fry with an Asian-inspired sauce."
+      },
+      {
+        "name": "Kung Pao Chicken",
+        "cuisine": "Chinese",
+        "prepTime": "15 minutes",
+        "cookingTime": "20 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "chicken breast", "amount": "300g, diced" },
+          { "name": "dried chilies", "amount": "6 pieces" },
+          { "name": "peanuts", "amount": "1/2 cup" },
+          { "name": "soy sauce", "amount": "2 tbsp" },
+          { "name": "garlic", "amount": "2 cloves, minced" }
+        ],
+        "instructions": [
+          "Stir-fry chicken with dried chilies and garlic.",
+          "Add soy sauce and peanuts, stir-fry until cooked through.",
+          "Serve with steamed rice."
+        ],
+        "nutrition": {
+          "calories": 400,
+          "fat": "15g",
+          "carbs": "30g",
+          "proteins": "35g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1617196034224-6d9f76cfd095"
+        ],
+        "details": "A spicy and slightly sweet stir-fried dish from Sichuan cuisine with chicken, chilies, and peanuts."
+      },      
+      {
+        "name": "Classic Tiramisu",
+        "cuisine": "Italian",
+        "prepTime": "20 minutes",
+        "cookingTime": "0 minutes (chill for 4 hours)",
+        "servings": 6,
+        "ingredients": [
+          { "name": "mascarpone cheese", "amount": "250g" },
+          { "name": "espresso", "amount": "1 cup, cooled" },
+          { "name": "ladyfingers", "amount": "24 pieces" },
+          { "name": "cocoa powder", "amount": "2 tbsp" },
+          { "name": "sugar", "amount": "1/2 cup" },
+          { "name": "eggs", "amount": "3, separated" }
+        ],
+        "instructions": [
+          "Whisk egg yolks and sugar until pale.",
+          "Add mascarpone and mix until smooth.",
+          "Dip ladyfingers in espresso and layer with mascarpone mixture.",
+          "Repeat layers and finish with cocoa powder.",
+          "Chill for 4 hours before serving."
+        ],
+        "nutrition": {
+          "calories": 420,
+          "fat": "24g",
+          "carbs": "45g",
+          "proteins": "8g",
+          "fiber": "2g",
+          "sugar": "20g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1606312619437-07acf3c169b3"
+        ],
+        "details": "A rich and creamy classic Italian dessert made with espresso-soaked ladyfingers and mascarpone."
+      },
+      {
+        "name": "Chickpea Curry",
+        "cuisine": "Indian",
+        "prepTime": "10 minutes",
+        "cookingTime": "30 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "chickpeas", "amount": "2 cups, cooked" },
+          { "name": "onion", "amount": "1, chopped" },
+          { "name": "tomato puree", "amount": "1 cup" },
+          { "name": "garam masala", "amount": "1 tbsp" },
+          { "name": "garlic", "amount": "3 cloves, minced" },
+          { "name": "coconut milk", "amount": "1/2 cup" }
+        ],
+        "instructions": [
+          "Sauté onion and garlic in oil until soft.",
+          "Add tomato puree and cook for 5 minutes.",
+          "Stir in chickpeas, garam masala, and coconut milk.",
+          "Simmer for 20 minutes and serve with rice."
+        ],
+        "nutrition": {
+          "calories": 320,
+          "fat": "12g",
+          "carbs": "45g",
+          "proteins": "15g",
+          "fiber": "10g",
+          "sugar": "6g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1603732551685-45da7c4176a1"
+        ],
+        "details": "A hearty and flavorful Indian chickpea curry with a creamy coconut base."
+      },
+      {
+        "name": "Dosa",
+        "cuisine": "South Indian",
+        "prepTime": "12 hours (for fermentation)",
+        "cookingTime": "15 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "rice", "amount": "2 cups" },
+          { "name": "urad dal (black gram lentils)", "amount": "1 cup" },
+          { "name": "water", "amount": "as needed" },
+          { "name": "salt", "amount": "to taste" },
+          { "name": "oil", "amount": "for cooking" }
+        ],
+        "instructions": [
+          "Soak rice and urad dal separately for 6 hours.",
+          "Grind them together into a smooth batter, adding water as needed.",
+          "Let the batter ferment overnight (8-12 hours).",
+          "Heat a griddle and spread a ladleful of batter into a thin circle.",
+          "Drizzle oil around the edges and cook until golden brown.",
+          "Serve hot with coconut chutney and sambar."
+        ],
+        "nutrition": {
+          "calories": 180,
+          "fat": "2g",
+          "carbs": "36g",
+          "proteins": "5g",
+          "fiber": "2g",
+          "sugar": "1g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1625217521922-5b1b9fd3b3f4"
+        ],
+        "details": "A crispy, golden South Indian crepe made from fermented rice and lentil batter, typically served with chutneys and sambar."
+      },
+      {
+        "name": "Mediterranean Chickpea Salad",
+        "cuisine": "Mediterranean",
+        "prepTime": "15 minutes",
+        "cookingTime": "0 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "chickpeas", "amount": "2 cups, cooked" },
+          { "name": "cucumber", "amount": "1, diced" },
+          { "name": "cherry tomatoes", "amount": "1 cup, halved" },
+          { "name": "red onion", "amount": "1/2, finely chopped" },
+          { "name": "feta cheese", "amount": "1/2 cup, crumbled" },
+          { "name": "olive oil", "amount": "2 tbsp" },
+          { "name": "lemon juice", "amount": "2 tbsp" },
+          { "name": "parsley", "amount": "1/4 cup, chopped" },
+          { "name": "salt", "amount": "to taste" },
+          { "name": "black pepper", "amount": "to taste" }
+        ],
+        "instructions": [
+          "Combine all ingredients in a large bowl.",
+          "Toss well to mix and coat with olive oil and lemon juice.",
+          "Let sit for 10 minutes before serving to allow flavors to meld.",
+          "Serve chilled or at room temperature."
+        ],
+        "nutrition": {
+          "calories": 250,
+          "fat": "10g",
+          "carbs": "30g",
+          "proteins": "10g",
+          "fiber": "7g",
+          "sugar": "5g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1572449043416-55f4685c9bbf"
+        ],
+        "details": "A refreshing and protein-rich Mediterranean salad with fresh vegetables, feta, and a light lemon dressing."
+      },
+      {
+        "name": "Baklava",
+        "cuisine": "Mediterranean",
+        "prepTime": "20 minutes",
+        "cookingTime": "40 minutes",
+        "servings": 8,
+        "ingredients": [
+          { "name": "phyllo dough", "amount": "1 package" },
+          { "name": "walnuts", "amount": "2 cups, finely chopped" },
+          { "name": "butter", "amount": "1 cup, melted" },
+          { "name": "sugar", "amount": "1/2 cup" },
+          { "name": "honey", "amount": "1 cup" },
+          { "name": "cinnamon", "amount": "1 tsp" },
+          { "name": "lemon juice", "amount": "1 tbsp" }
+        ],
+        "instructions": [
+          "Preheat oven to 350°F (175°C).",
+          "Layer phyllo dough, brushing each layer with melted butter.",
+          "Mix walnuts, sugar, and cinnamon, then sprinkle over layers.",
+          "Continue layering and finish with phyllo dough.",
+          "Bake for 40 minutes until golden brown.",
+          "Heat honey and lemon juice, then pour over warm baklava.",
+          "Let cool before serving."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "fat": "25g",
+          "carbs": "50g",
+          "proteins": "6g",
+          "fiber": "3g",
+          "sugar": "30g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1606312619437-07acf3c169b3"
+        ],
+        "details": "A rich and flaky Mediterranean dessert made with layers of phyllo, nuts, and honey syrup."
+      },
+      {
+        "name": "Fish and Chips",
+        "cuisine": "British Cuisine",
+        "prepTime": "15 minutes",
+        "cookingTime": "25 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "cod fillets", "amount": "4 pieces" },
+          { "name": "flour", "amount": "1 cup" },
+          { "name": "beer", "amount": "1 cup" },
+          { "name": "baking powder", "amount": "1 tsp" },
+          { "name": "potatoes", "amount": "4, cut into fries" },
+          { "name": "salt", "amount": "to taste" },
+          { "name": "pepper", "amount": "to taste" },
+          { "name": "oil", "amount": "for frying" }
+        ],
+        "instructions": [
+          "Heat oil to 350°F (175°C).",
+          "Mix flour, baking powder, and beer to create a batter.",
+          "Dip fish fillets in batter and fry until golden brown.",
+          "Fry potato fries until crispy.",
+          "Serve hot with salt, vinegar, or tartar sauce."
+        ],
+        "nutrition": {
+          "calories": 620,
+          "fat": "30g",
+          "carbs": "70g",
+          "proteins": "25g",
+          "fiber": "5g",
+          "sugar": "2g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1606312619437-07acf3c169b3"
+        ],
+        "details": "A British classic consisting of battered and deep-fried fish served with crispy fries."
+      },
+      {
+        "name": "Sri Lankan Kottu Roti",
+        "cuisine": "Sri Lanka",
+        "prepTime": "15 minutes",
+        "cookingTime": "20 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "roti (chopped)", "amount": "4 pieces" },
+          { "name": "chicken", "amount": "200g, shredded" },
+          { "name": "onions", "amount": "1, chopped" },
+          { "name": "carrot", "amount": "1, julienned" },
+          { "name": "cabbage", "amount": "1/2 cup, shredded" },
+          { "name": "eggs", "amount": "2, beaten" },
+          { "name": "garlic", "amount": "1 tsp, minced" },
+          { "name": "soy sauce", "amount": "1 tbsp" },
+          { "name": "curry powder", "amount": "1 tsp" },
+          { "name": "pepper", "amount": "1/2 tsp" },
+          { "name": "oil", "amount": "2 tbsp" }
+        ],
+        "instructions": [
+          "Heat oil and sauté onions, garlic, and chicken until cooked.",
+          "Add carrots, cabbage, and beaten eggs, stir-fry for a minute.",
+          "Mix in chopped roti, soy sauce, curry powder, and pepper.",
+          "Stir-fry everything until well combined and heated through.",
+          "Serve hot with a side of curry or sambol."
+        ],
+        "nutrition": {
+          "calories": 420,
+          "fat": "15g",
+          "carbs": "50g",
+          "proteins": "25g",
+          "fiber": "6g",
+          "sugar": "5g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1604342427141-12367b1c9d64"
+        ],
+        "details": "A famous Sri Lankan street food made with chopped roti stir-fried with vegetables, eggs, and spices."
+      },      
+      {
+        "name": "Shepherd’s Pie",
+        "cuisine": "British Cuisine",
+        "prepTime": "20 minutes",
+        "cookingTime": "40 minutes",
+        "servings": 6,
+        "ingredients": [
+          { "name": "ground lamb", "amount": "500g" },
+          { "name": "onion", "amount": "1, chopped" },
+          { "name": "carrots", "amount": "2, diced" },
+          { "name": "peas", "amount": "1 cup" },
+          { "name": "potatoes", "amount": "4, mashed" },
+          { "name": "butter", "amount": "3 tbsp" },
+          { "name": "beef broth", "amount": "1/2 cup" },
+          { "name": "flour", "amount": "1 tbsp" },
+          { "name": "salt", "amount": "to taste" },
+          { "name": "black pepper", "amount": "to taste" }
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "Sauté onions, carrots, and lamb until browned.",
+          "Stir in flour and broth, then add peas and seasonings.",
+          "Transfer to a baking dish and top with mashed potatoes.",
+          "Bake for 25 minutes until golden brown.",
+          "Serve hot."
+        ],
+        "nutrition": {
+          "calories": 550,
+          "fat": "28g",
+          "carbs": "50g",
+          "proteins": "30g",
+          "fiber": "6g",
+          "sugar": "5g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1558402681-45904988548a"
+        ],
+        "details": "A hearty British dish made with ground lamb, vegetables, and topped with creamy mashed potatoes."
+      },
+      {
+        "name": "Nihari",
+        "cuisine": "Pakistani",
+        "prepTime": "20 minutes",
+        "cookingTime": "4 hours",
+        "servings": 6,
+        "ingredients": [
+          { "name": "beef shank", "amount": "1kg" },
+          { "name": "onions", "amount": "2, sliced" },
+          { "name": "ginger-garlic paste", "amount": "2 tbsp" },
+          { "name": "yogurt", "amount": "1/2 cup" },
+          { "name": "wheat flour", "amount": "2 tbsp" },
+          { "name": "nihari masala", "amount": "2 tbsp" },
+          { "name": "salt", "amount": "to taste" },
+          { "name": "ghee", "amount": "4 tbsp" },
+          { "name": "water", "amount": "5 cups" },
+          { "name": "green chilies", "amount": "2, chopped" },
+          { "name": "ginger", "amount": "for garnish, julienned" },
+          { "name": "lemon wedges", "amount": "for serving" }
+        ],
+        "instructions": [
+          "Heat ghee in a pot and sauté onions until golden brown.",
+          "Add beef, ginger-garlic paste, and nihari masala, then cook until browned.",
+          "Stir in yogurt and cook for a few minutes.",
+          "Pour in water, cover, and simmer for 4 hours until meat is tender.",
+          "Mix wheat flour with water to make a slurry, then stir into the nihari to thicken.",
+          "Garnish with ginger and green chilies, then serve hot with naan and lemon wedges."
+        ],
+        "nutrition": {
+          "calories": 680,
+          "fat": "42g",
+          "carbs": "25g",
+          "proteins": "55g",
+          "fiber": "3g",
+          "sugar": "4g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1606312619437-07acf3c169b3"
+        ],
+        "details": "A slow-cooked, spicy beef stew rich in flavors, traditionally served with naan or parathas. A beloved dish in Pakistani cuisine."
+      },
+      {
+        "name": "Shakshuka",
+        "cuisine": "Mediterranean",
+        "prepTime": "10 minutes",
+        "cookingTime": "25 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "olive oil", "amount": "2 tbsp" },
+          { "name": "onion", "amount": "1, chopped" },
+          { "name": "bell pepper", "amount": "1, chopped" },
+          { "name": "garlic cloves", "amount": "3, minced" },
+          { "name": "tomatoes", "amount": "4, diced" },
+          { "name": "tomato paste", "amount": "2 tbsp" },
+          { "name": "cumin", "amount": "1 tsp" },
+          { "name": "paprika", "amount": "1 tsp" },
+          { "name": "eggs", "amount": "4" },
+          { "name": "salt", "amount": "to taste" },
+          { "name": "black pepper", "amount": "to taste" },
+          { "name": "fresh parsley", "amount": "for garnish" }
+        ],
+        "instructions": [
+          "Heat olive oil in a pan and sauté onions and bell pepper until soft.",
+          "Add garlic, tomatoes, tomato paste, cumin, and paprika. Simmer for 10 minutes.",
+          "Make small wells in the sauce and crack eggs into them.",
+          "Cover and cook until the eggs are set.",
+          "Season with salt and pepper, then garnish with fresh parsley.",
+          "Serve hot with crusty bread."
+        ],
+        "nutrition": {
+          "calories": 260,
+          "fat": "14g",
+          "carbs": "18g",
+          "proteins": "12g",
+          "fiber": "4g",
+          "sugar": "9g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1610440049608-71591a57bd84"
+        ],
+        "details": "A classic Mediterranean dish of poached eggs in a spiced tomato and pepper sauce, best enjoyed with fresh bread."
+      },
+      {
+        "name": "Bisi Bele Bath",
+        "cuisine": "Karnataka",
+        "prepTime": "20 minutes",
+        "cookingTime": "40 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "rice", "amount": "1 cup" },
+          { "name": "toor dal (pigeon peas)", "amount": "1/2 cup" },
+          { "name": "vegetables (carrots, beans, peas)", "amount": "1 cup, chopped" },
+          { "name": "tamarind paste", "amount": "1 tbsp" },
+          { "name": "jaggery", "amount": "1 tsp" },
+          { "name": "Bisi Bele Bath powder", "amount": "2 tbsp" },
+          { "name": "mustard seeds", "amount": "1 tsp" },
+          { "name": "curry leaves", "amount": "6-8 leaves" },
+          { "name": "ghee", "amount": "2 tbsp" }
+        ],
+        "instructions": [
+          "Cook rice and toor dal together until soft.",
+          "Sauté mustard seeds, curry leaves, and vegetables in ghee.",
+          "Add tamarind paste, jaggery, and Bisi Bele Bath powder.",
+          "Mix everything with the cooked rice and dal, and simmer for 10 minutes.",
+          "Serve hot with papad or raita."
+        ],
+        "nutrition": {
+          "calories": 420,
+          "fat": "12g",
+          "carbs": "70g",
+          "proteins": "12g",
+          "fiber": "8g",
+          "sugar": "5g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1556761175-4b46a572b786"
+        ],
+        "details": "A spicy and tangy rice dish from Karnataka, made with lentils, vegetables, tamarind, and aromatic spices."
+      },
+      {
+        "name": "Poutine",
+        "cuisine": "Canadian",
+        "prepTime": "10 minutes",
+        "cookingTime": "30 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "potatoes", "amount": "4, cut into fries" },
+          { "name": "vegetable oil", "amount": "for frying" },
+          { "name": "cheese curds", "amount": "1 cup" },
+          { "name": "beef gravy", "amount": "1 cup" },
+          { "name": "salt", "amount": "to taste" }
+        ],
+        "instructions": [
+          "Heat oil and fry potatoes until golden and crispy. Drain excess oil.",
+          "Place fries on a plate and top with cheese curds.",
+          "Pour hot beef gravy over fries and cheese.",
+          "Serve immediately while hot and melty."
+        ],
+        "nutrition": {
+          "calories": 540,
+          "fat": "32g",
+          "carbs": "50g",
+          "proteins": "12g",
+          "fiber": "5g",
+          "sugar": "2g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1519137847-189aca33d075"
+        ],
+        "details": "A Canadian comfort food classic featuring crispy fries topped with cheese curds and hot beef gravy."
+      },
+      {
+        "name": "Vegemite Toast",
+        "cuisine": "Australian",
+        "prepTime": "5 minutes",
+        "cookingTime": "5 minutes",
+        "servings": 1,
+        "ingredients": [
+          { "name": "bread", "amount": "2 slices" },
+          { "name": "butter", "amount": "1 tbsp" },
+          { "name": "Vegemite", "amount": "1 tsp" }
+        ],
+        "instructions": [
+          "Toast the bread until golden brown.",
+          "Spread butter evenly on the toast.",
+          "Lightly spread Vegemite over the buttered toast.",
+          "Serve immediately."
+        ],
+        "nutrition": {
+          "calories": 150,
+          "fat": "6g",
+          "carbs": "22g",
+          "proteins": "4g",
+          "fiber": "2g",
+          "sugar": "2g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1604908177631-76f37f9844f8"
+        ],
+        "details": "A simple yet iconic Australian breakfast of buttered toast with a thin layer of Vegemite."
+      },
+      {
+        "name": "Pani Puri",
+        "cuisine": "Indian Chaat",
+        "prepTime": "20 minutes",
+        "cookingTime": "10 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "puri (crispy shells)", "amount": "20 pieces" },
+          { "name": "boiled potatoes", "amount": "2, mashed" },
+          { "name": "boiled chickpeas", "amount": "1/2 cup" },
+          { "name": "tamarind chutney", "amount": "1/4 cup" },
+          { "name": "mint-coriander pani", "amount": "2 cups" },
+          { "name": "black salt", "amount": "1/2 tsp" },
+          { "name": "cumin powder", "amount": "1/2 tsp" },
+          { "name": "chopped onions", "amount": "1/4 cup" }
+        ],
+        "instructions": [
+          "Mix mashed potatoes, chickpeas, cumin powder, and black salt.",
+          "Poke a hole in each puri and stuff it with the potato mixture.",
+          "Drizzle tamarind chutney over the filling.",
+          "Dip stuffed puris in mint-coriander pani and serve immediately."
+        ],
+        "nutrition": {
+          "calories": 250,
+          "fat": "5g",
+          "carbs": "45g",
+          "proteins": "6g",
+          "fiber": "5g",
+          "sugar": "3g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1600726793923-52dc7e516db7"
+        ],
+        "details": "A popular Indian street snack made of crispy puris filled with spiced potatoes and dipped in tangy, spicy water."
+      },      
+      {
+        "name": "Moussaka",
+        "cuisine": "Mediterranean",
+        "prepTime": "30 minutes",
+        "cookingTime": "1 hour",
+        "servings": 6,
+        "ingredients": [
+          { "name": "eggplants", "amount": "2, sliced" },
+          { "name": "olive oil", "amount": "3 tbsp" },
+          { "name": "ground lamb", "amount": "500g" },
+          { "name": "onion", "amount": "1, chopped" },
+          { "name": "garlic cloves", "amount": "2, minced" },
+          { "name": "tomatoes", "amount": "2, chopped" },
+          { "name": "tomato paste", "amount": "2 tbsp" },
+          { "name": "cinnamon", "amount": "1/2 tsp" },
+          { "name": "béchamel sauce", "amount": "2 cups" },
+          { "name": "salt", "amount": "to taste" },
+          { "name": "black pepper", "amount": "to taste" }
+        ],
+        "instructions": [
+          "Fry eggplant slices in olive oil until golden, then set aside.",
+          "Sauté onion and garlic, then add ground lamb and cook until browned.",
+          "Stir in tomatoes, tomato paste, cinnamon, salt, and pepper. Simmer for 20 minutes.",
+          "Layer eggplants and meat sauce in a baking dish.",
+          "Top with béchamel sauce and bake at 180°C (350°F) for 30 minutes.",
+          "Serve warm."
+        ],
+        "nutrition": {
+          "calories": 620,
+          "fat": "42g",
+          "carbs": "30g",
+          "proteins": "32g",
+          "fiber": "7g",
+          "sugar": "8g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1606312619437-07acf3c169b3"
+        ],
+        "details": "A Mediterranean classic with layers of fried eggplants, rich meat sauce, and creamy béchamel topping."
+      },
+      {
+        "name": "Hyderabadi Dum Biryani",
+        "cuisine": "Hyderabad",
+        "prepTime": "30 minutes",
+        "cookingTime": "60 minutes",
+        "servings": 4,
+        "ingredients": [
+          { "name": "basmati rice", "amount": "2 cups" },
+          { "name": "chicken (bone-in)", "amount": "500g" },
+          { "name": "yogurt", "amount": "1/2 cup" },
+          { "name": "onions", "amount": "2, sliced" },
+          { "name": "tomatoes", "amount": "2, chopped" },
+          { "name": "ginger-garlic paste", "amount": "1 tbsp" },
+          { "name": "green chilies", "amount": "2, slit" },
+          { "name": "biryani masala", "amount": "2 tbsp" },
+          { "name": "saffron milk", "amount": "2 tbsp" },
+          { "name": "mint leaves", "amount": "1/4 cup" },
+          { "name": "ghee", "amount": "3 tbsp" }
+        ],
+        "instructions": [
+          "Marinate chicken with yogurt, biryani masala, and ginger-garlic paste for 1 hour.",
+          "Cook basmati rice until 70% done and set aside.",
+          "Fry onions until golden brown and mix with marinated chicken.",
+          "Layer half-cooked rice over the marinated chicken, drizzle saffron milk and ghee.",
+          "Seal with dough and cook on low flame for 30 minutes (Dum method).",
+          "Serve hot with raita and salad."
+        ],
+        "nutrition": {
+          "calories": 550,
+          "fat": "18g",
+          "carbs": "70g",
+          "proteins": "35g",
+          "fiber": "5g",
+          "sugar": "4g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1596866201694-d5b6373c19bb"
+        ],
+        "details": "A rich and aromatic rice dish from Hyderabad, slow-cooked with marinated chicken, saffron, and spices."
+      },   
+      {
+        "name": "Baklava",
+        "cuisine": "Turkish/Middle Eastern",
+        "prepTime": "30 minutes",
+        "cookingTime": "45 minutes",
+        "servings": 12,
+        "ingredients": [
+          { "name": "phyllo dough", "amount": "1 package (16 sheets)" },
+          { "name": "walnuts or pistachios", "amount": "2 cups, finely chopped" },
+          { "name": "butter", "amount": "1 cup, melted" },
+          { "name": "sugar", "amount": "1 cup" },
+          { "name": "honey", "amount": "1/2 cup" },
+          { "name": "water", "amount": "1/2 cup" },
+          { "name": "lemon juice", "amount": "1 tbsp" },
+          { "name": "cinnamon", "amount": "1 tsp" }
+        ],
+        "instructions": [
+          "Preheat oven to 180°C (350°F).",
+          "Layer phyllo dough sheets in a baking dish, brushing each with melted butter.",
+          "Sprinkle chopped nuts and cinnamon between every few layers.",
+          "Cut into diamond shapes and bake for 45 minutes until golden.",
+          "Prepare syrup by heating sugar, honey, water, and lemon juice until thick.",
+          "Pour syrup over hot baklava and let it absorb before serving."
+        ],
+        "nutrition": {
+          "calories": 300,
+          "fat": "18g",
+          "carbs": "35g",
+          "proteins": "4g",
+          "fiber": "2g",
+          "sugar": "20g"
+        },
+        "images": [
+          "https://images.unsplash.com/photo-1623342487178-0cb0da9e8438"
+        ],
+        "details": "A sweet, crispy, and nutty pastry made with layers of phyllo dough, butter, and chopped nuts, soaked in honey syrup."
+      }
+         
+  ]
