@@ -109,6 +109,20 @@ app.put('/recipes/:recipeId', async(req, res) => {
     }
 })
 
+//Delete a recipe
+app.delete('recipes/:recipeId', async(req, res) => {
+    try{
+        const recipeToDelete = await Recipes.findByIdAndDelete(req.params.recipeId)
+        if(!recipeToDelete){
+            res.status(404).json({error: 'Recipe not found'})
+        }
+        res.status(200).json(recipeToDelete)
+    }
+    catch(error){
+        res.status(500).json({error: 'Internal Server Error.'})
+    }
+})
+
 app.listen(PORT, () => {
     console.log('Server is running on PORT ', PORT)
 })
