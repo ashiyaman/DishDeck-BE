@@ -1,0 +1,19 @@
+{
+  "name": "dishdeck-be",
+  "version": "1.0.0",
+  "description": "DishDeck is a powerful and user-friendly recipe organizer designed for food enthusiasts who want to store, manage, and explore their favorite recipes. Built using the MERN stack, DishDeck leverages Redux Toolkit for state management, ensuring a smooth and efficient user experience. The application allows users to add, edit, delete, and categorize recipes based on different cuisines, ingredients, or meal types. With a search and filter functionality, users can quickly find specific recipes based on keywords or categories. The app also provides a favorites feature, allowing users to save their most-loved recipes for quick access. DishDeck is designed with a responsive UI, making it accessible from desktops, tablets, and mobile devices. The backend is powered by Node.js and Express.js, ensuring fast API responses, while MongoDB efficiently stores recipe data. With its well-structured project architecture, DishDeck is easy to maintain and extend with additional features in the future.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0"
+  }
+}
