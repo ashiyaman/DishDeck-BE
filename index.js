@@ -95,6 +95,20 @@ app.post('/recipes', async(req, res) => {
     }
 })
 
+//Update a recipe
+app.put('/recipes/:recipeId', async(req, res) => {
+    try{
+        const recipeToUpdate = await Recipes.findByIdAndUpdate(req.params.recipeId, req.body)
+        if(!recipeToUpdate){
+            res.status(404).json({error: 'Recipe not found'})
+        }
+        res.status(200).json(recipeToUpdate)
+    }
+    catch(error){
+        res.status(500).json({error: 'Internal Server Error.'})
+    }
+})
+
 app.listen(PORT, () => {
     console.log('Server is running on PORT ', PORT)
 })
