@@ -6,7 +6,7 @@
         "cookingTime": "90 seconds (in a high-temperature oven) or 7-10 minutes (home oven)",
         "servings": 2,
         "ingredients": [
-          { "name": "00 flour", "amount": "500g" },
+          { "name": "flour", "amount": "500g" },
           { "name": "water", "amount": "325ml" },
           { "name": "salt", "amount": "10g" },
           { "name": "fresh yeast", "amount": "3g" },
