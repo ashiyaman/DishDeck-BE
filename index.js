@@ -31,7 +31,7 @@ const seedData = async() => {
                 instructions: recipeData.instructions,
                 nutrition: recipeData.nutrition,
                 images: recipeData.images,
-                detail: recipeData.detail
+                details: recipeData.details
             })
             await recipe.save()
         }
@@ -46,6 +46,49 @@ const seedData = async() => {
 app.get('/', async(req, res) => {
     try{
         res.send('Welcome to DishDeck - a powerful and user-friendly recipe organizer designed for food enthusiasts who want to store, manage, and explore their favorite recipes.')
+    }
+    catch(error){
+        res.status(500).json({error: 'Internal Server Error.'})
+    }
+})
+
+//Read all recipes
+app.get('/recipes', async(req, res) => {
+    try{
+        const allRecipes = await Recipes.find()
+        if(!allRecipes){
+            res.status(404).json({error: 'Recipes not found'})
+        }
+        res.status(200).json(allRecipes)
+    }
+    catch(error){
+        res.status(500).json({error: 'Internal Server Error.'})
+    }
+})
+
+//Get a recipe by Id
+app.get('/recipes/:recipeId', async(req, res) => {
+    try{
+        const recipe = await Recipes.findById(req.params.recipeId)
+        if(!recipe){
+            res.status(404).json({error: 'Recipe not found'})
+        }
+        res.status(200).json(recipe)
+    }
+    catch(error){
+        res.status(500).json({error: 'Internal Server Error.'})
+    }
+})
+
+//Add a new recipe
+app.post('/recipes', async(req, res) => {
+    const {name, cuisine, prepTime, cookingTime, servings, ingredients, instructions, nutrition, images, details} = req.body
+    try{
+        const recipe = new Recipes({
+            name, cuisine, prepTime, cookingTime, servings, ingredients, instructions, nutrition, images, details
+        })
+        await recipe.save()
+        res.status(200).json(recipe)
     }
     catch(error){
         res.status(500).json({error: 'Internal Server Error.'})
