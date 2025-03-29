@@ -11,8 +11,8 @@ app.use(cors())
 
 const PORT = process.env.PORT
 
-const jsonData = fs.readFileSync('./recipes.json')
-const recipesData = JSON.parse(jsonData)
+/*const jsonData = fs.readFileSync('./recipes.json')
+const recipesData = JSON.parse(jsonData)*/
 
 //Initialize database
 initializeDatebase()
@@ -30,7 +30,7 @@ const seedData = async() => {
                 ingredients: recipeData.ingredients,
                 instructions: recipeData.instructions,
                 nutrition: recipeData.nutrition,
-                images: recipeData.images,
+                image: recipeData.image,
                 details: recipeData.details
             })
             await recipe.save()
@@ -62,6 +62,7 @@ app.get('/recipes', async(req, res) => {
         res.status(200).json(allRecipes)
     }
     catch(error){
+        console.log(error)
         res.status(500).json({error: 'Internal Server Error.'})
     }
 })
@@ -80,14 +81,21 @@ app.get('/recipes/:recipeId', async(req, res) => {
     }
 })
 
+
+
 //Add a new recipe
 app.post('/recipes', async(req, res) => {
-    const {name, cuisine, prepTime, cookingTime, servings, ingredients, instructions, nutrition, images, details} = req.body
+    const {name, cuisine, prepTime, cookingTime, servings, ingredients, instructions, nutrition, image, details} = req.body.recipe
     try{
         const recipe = new Recipes({
-            name, cuisine, prepTime, cookingTime, servings, ingredients, instructions, nutrition, images, details
+            name, cuisine, prepTime, cookingTime, servings, ingredients, instructions, nutrition, image, details
         })
+        
         await recipe.save()
+
+        if(!recipe){
+            res.status(404).json({error: 'Recipe not found'})
+        }
         res.status(200).json(recipe)
     }
     catch(error){
@@ -110,7 +118,7 @@ app.put('/recipes/:recipeId', async(req, res) => {
 })
 
 //Delete a recipe
-app.delete('recipes/:recipeId', async(req, res) => {
+app.delete('/recipes/:recipeId', async(req, res) => {
     try{
         const recipeToDelete = await Recipes.findByIdAndDelete(req.params.recipeId)
         if(!recipeToDelete){

@@ -23,8 +23,7 @@ const recipeSchema = new mongoose.Schema({
         required: true
     },
     ingredients: [
-        {name: String,
-        amount: String}
+       String
     ],
     instructions: {
         type: [String],
@@ -33,8 +32,8 @@ const recipeSchema = new mongoose.Schema({
     nutrition: {
         type: Object
     },
-    images: {
-        type: [String],
+    image: {
+        type: String,
         required: true
     },
     details: String
